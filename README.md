@@ -1,11 +1,14 @@
-# CSC360-AU2420202
-Question
-How is computer graphics different from image processing?
-What are the geometric primitives of drawings?
-Describe the graphical frameworks in JAVA
-What is the design pattern to create a user interface?
-How is static graphics different from interactive graphics?
-How is curves connected with calculus?
+# questions 
+1. how is computer graphics different from image processing?   
+2. what are the geometric primitives of drawing?   
+3. describe the graphical frameworks in java?  
+4. what is the design pattern for creating user interface?   
+5. how is static graphics different from interactive graphics?  
+6. how is curve connected to calculus?  
+7. describe ssh and https protocols for accessing git repositories.  
+8. mention the tools for ssh operations.  
+9. what are public and private key? how do we use these?
 
-Project
-Create a triangle and use the mouse to drag that triangle across
+# projects
+1. create a triangle and make it move from your mouse.
+2. a triangle zooming in and zooming out.
